@@ -1,0 +1,2 @@
+# cutoutwiz-app
+Desktop app
